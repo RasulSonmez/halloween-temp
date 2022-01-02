@@ -26,6 +26,4 @@ https://swiperjs.com/ <br>
 
 Open with live server
 
-#####
-
 <small>These projects have been prepared from scratch after watching the[Bedimcode](https://www.youtube.com/c/Bedimcode)</small>
