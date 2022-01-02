@@ -28,4 +28,4 @@ Open with live server
 
 #####
 
-These projects have been prepared from scratch after watching the[Bedimcode](https://www.youtube.com/c/Bedimcode)
+<small>These projects have been prepared from scratch after watching the[Bedimcode](https://www.youtube.com/c/Bedimcode)</small>
