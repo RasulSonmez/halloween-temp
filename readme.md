@@ -12,7 +12,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - It contains a Header, Home, About,Candy, New, Newsletter and Footer.
 
-### [Live Website](https://plants-theme-rs.netlify.app/)
+### [Live Website](https://hallowen-temp-rs.netlify.app/)
 
 ## Used packages cdn
 
@@ -26,4 +26,4 @@ https://swiperjs.com/ <br>
 
 Open with live server
 
-###### These projects have been prepared from scratch after watching the[Bedimcode](https://www.youtube.com/c/Bedimcode)
+###### These projects have been prepared from scratch after watching the [Bedimcode](https://www.youtube.com/c/Bedimcode)
